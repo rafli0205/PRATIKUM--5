@@ -101,11 +101,11 @@ if __name__ == "__main__":
 [(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
 T
 Tambahkan Data
-NIM: 312410002
-Nama: Sheila
-Nilai Tugas: 87
-Nilai UTS: 89
-Nilai UAS: 90
+NIM: 312410251
+Nama: Rafli Dhiya Fadhaly
+Nilai Tugas: 90
+Nilai UTS: 95
+Nilai UAS: 95
 Data berhasil ditambahkan.
 
 [(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
