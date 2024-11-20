@@ -5,8 +5,8 @@ Nama : Rafli Dhiya fadhaly
 Nim : 312410251
 
 Kelas : TI 24 A2
-# Masukan dan Keluaran dari Tugas Pratikum 5
-## Masukan
+# Outout dan Input dari Tugas Pratikum 5
+## Input
 ```python
 def tampilkan_menu():
     print("\n[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:")
@@ -96,7 +96,7 @@ if __name__ == "__main__":
         else:
             print("Pilihan tidak valid")
 ```
-## Keluaran 
+## Output
 ```python
 [(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
 T
